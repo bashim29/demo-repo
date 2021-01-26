@@ -3,4 +3,4 @@
 
 
 
-Hello there I'm Bashim Ovezmyradov
+Hello there I'm Bashim Ovezmyradov.
